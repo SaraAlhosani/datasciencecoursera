@@ -20,4 +20,5 @@ activity_load = Activity Labels data
 feature_load = Feature Label data
 feature_extract = measurments
 
+
 tidy_dataset = Final Tidy data output
