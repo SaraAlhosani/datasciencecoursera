@@ -1,12 +1,15 @@
-# Getting and Cleaning Data Course Week 4 Assignment in coursera
-A repository of the last assignment of Getting & Cleaning Data course
+# Shiny Application and Reproducible Pitch
+A repository of the project in the data science capstone.
 
 Author: Sara Al Hosani
 
-Steps
-1. Reads in the data after downloading it.
-2. Combines the training and test sets into a single data set.
-3. Extracts only the mean and standard deviation measurements for each measurement.
-4. Names the activities in the data collection with descriptive activity names.
-5. Label the data collection appropriately with descriptive variable names.
-6. Creates a second, independent tidy data set containing the average of each variable for each activity and subject from the data set created in step 4.
+Your Shiny Application:
+1. Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
+
+2. Deploy the application on Rstudio's shiny server
+
+3. Share the application link by pasting it into the provided text box
+
+4. Share your server.R and ui.R code on github
+
+Covid-19 deaths by country
